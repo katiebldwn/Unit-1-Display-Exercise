@@ -1,0 +1,40 @@
+main {
+  font-size: 0;
+  text-align: center;
+  width: 800px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+.box {
+  display: inline-block;
+}
+.green-box {
+  background-color: green;
+  width: 398px;
+  height: 200px;
+  border: 1px solid black;
+}
+.blue-box {
+  background-color: blue;
+  width: 398px;
+  height: 200px;
+  border: 1px solid black;
+}
+.gray-box {
+  background-color: gray;
+  width: 264.66px;
+  height: 300px;
+  border: 1px solid black;
+}
+.black-box {
+  background-color: black;
+  width: 264.66px;
+  height: 300px;
+  border: 1px solid black;
+}
+.orange-box {
+  background-color: orange;
+  width: 264.66px;
+  height: 300px;
+  border: 1px solid black;
+}
